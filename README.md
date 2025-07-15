@@ -40,21 +40,6 @@ A simple and modular **Spring Boot** based **E-Commerce backend API** that allow
 - JWT (JSON Web Token)
 - Maven
 
-## 📁 Project Structure
-
-src/
-├── main/
-│ ├── java/com/example/ecommerce/
-│ │ ├── controller/ # REST APIs
-│ │ ├── model/ # Entity classes
-│ │ ├── repository/ # Spring Data JPA Repositories
-│ │ ├── service/ # Business logic (optional)
-│ │ ├── config/ # Security / JWT config
-│ │ └── EcommerceApplication.java
-│ └── resources/
-│ ├── application.properties
-
-
 
 ---
 
